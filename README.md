@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/lovato/docker-kinetic-ros-base-tests.svg?branch=master)](https://travis-ci.org/lovato/docker-kinetic-ros-base-tests)
 
-All you need to execute ROS Kinetic unit tests
+All you need to execute ROS Kinetic unit tests.
 
 ## Pull from Docker Hub
 
